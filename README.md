@@ -1,3 +1,3 @@
 # SafeBot
-![image](https://github.com/user-attachments/assets/64f16bc9-6a61-428f-8130-d019138273c1)
+![image](https://github.com/user-attachments/assets/759251a3-1688-4abf-9101-f257700a3521)
 A discord bot which protects users from vulgar text [IN DEVELOPMENT]
