@@ -1,0 +1,9 @@
+services:
+  safebot:
+    build: .
+    env_file: .env
+    volumes:
+      - safebot-data:/data
+    restart: unless-stopped
+volumes:
+  safebot-data:
